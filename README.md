@@ -29,6 +29,6 @@ Eti A - bet dagan
 shiri earon - FPGa
 Dror Gilad - FPGA
 josefk kadouri ramat gan
-DA 1101 - DevOps
+DA 1101 - DevOps PROGRAMMER
 
 yoram last____________________________
